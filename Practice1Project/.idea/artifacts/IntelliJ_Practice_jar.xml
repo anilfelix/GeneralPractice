@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IntelliJ_Practice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliJ_Practice_jar</output-path>
+    <root id="archive" name="IntelliJ_Practice.jar">
+      <element id="module-output" name="IntelliJ_Practice" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
